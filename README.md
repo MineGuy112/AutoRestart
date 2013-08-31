@@ -4,7 +4,7 @@ Simple plugin designed to make the server automatically restart after an user se
 
 ## Installation
 - Drop the plugin into the PocketMine's `plugins/` folder.
-- Restart the server and a `config.yml` file will be generated in 'plugins/AutoRestart/'
+- Restart the server and a `config.yml` file will be generated in `plugins/AutoRestart/`
 
 ## Configuration
 | Name | Type | Description |
