@@ -62,7 +62,7 @@ class AutoRestart implements Plugin{
 		if($this->minute == 0)
 		{
 			$this->api->chat->broadcast("Server restarting.");
-			$this->api->console->run("stop");
+			$this->api->console->run("reload");
 		}
 	}
 	
